@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladdoSK
 - 👀 I’m interested in fronr-end developing
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me BlackArrow4k@gmail.com
+- 📫 How to contact with me BlackArrow4k@gmail.com
 
 <!---
 vladdoSK/vladdoSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
